@@ -1,2 +1,3 @@
 # Hello-World-Tech
-Practice
+Free Kurdistan
+Hi the world
